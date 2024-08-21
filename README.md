@@ -7,4 +7,4 @@
 
 # UI interface
 
-![plot](UI.png)
+![plot](ui.png)
